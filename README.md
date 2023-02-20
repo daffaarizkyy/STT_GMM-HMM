@@ -67,7 +67,7 @@ Type on your CMD or Terminal :
 - Clone this Repository
 
 ```
-git clone https://github.com/daffaarizkyy/auto-subtitle-ofa.git
+git clone https://github.com/daffaarizkyy/STT_GMM-HMM
 ```
 
 - cd to your directory (on where's you clone this project)
@@ -75,7 +75,7 @@ git clone https://github.com/daffaarizkyy/auto-subtitle-ofa.git
 For Example:
 
   ```
-  cd auto-subtitle-ofa
+  cd STT_GMM-HMM
   ```
 
 - Run `pip install -r requirements.txt`
@@ -92,12 +92,10 @@ Project is: _complete_
 ## Room for Improvement
 
 Room for improvement:
-- The translation needs to be improved so that it is not stiff and formal
 - The Speech Recognition Processing needs to be improved so that the processing is more faster
 
 To do for future development:
-- Added more supported languages
-- Features allow users to edit srt file after automatic translations
+- Added more supported languages and file formats
 
 
 ## Acknowledgements
