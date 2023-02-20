@@ -47,9 +47,9 @@ Speech-to-Text is a technology that can convert voice data into text data. This 
 
 
 ## Screenshots
-![Example screenshot](/static/img/screenshots/about.png)
-![Example screenshot](/static/img/screenshots/prediction.png)
-![Example screenshot](/static/img/screenshots/prediction 2.png)
+![Example screenshot](/static/img/screenshot/about.png)
+![Example screenshot](/static/img/screenshot/prediction.png)
+![Example screenshot](/static/img/screenshot/prediction_2.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
