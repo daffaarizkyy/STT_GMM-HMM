@@ -2,7 +2,7 @@
 ![Logo](static/img/text-to-speech.png)
 > Speech-to-Text is a technology that can convert voice data into text data. This allows computers to understand human language through voice commands. We combine machine learning technology into Speech-to-Text, namely the Gaussian Mixture Model and the Hidden Markov Model to identify sounds in text.
 
-> Live demo Now is NOT [_Available_](#). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo Now is [_UNAVAILABLE_](#Speech-to-Text using Gaussian Mixture Model & Hidden Markov Model). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
