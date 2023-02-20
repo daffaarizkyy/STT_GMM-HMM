@@ -154,4 +154,7 @@ def kenali_suara_hmm(input_file):
 
 def cekfile(input_file):
 	return(input_file.endswith('wav'))
+
+if __name__ == '__main__':
+	app.run(debug=True)
 	
