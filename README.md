@@ -106,10 +106,16 @@ To do for future development:
 Many thanks to:
 
 - Irvan Kurniawan : Modelling HMM
-  Sriwijaya University, Majoring in Informatics Engineering
+  Department of Informatics, Faculty of Computer Sciences, Universitas Sriwijaya, Indonesia
 
 - Muhammad Daffa Rizky Fatarah : Modelling GMM and UI/UX Designer
-  Sriwijaya University, Majoring in Informatics Engineering
+  Department of Informatics, Faculty of Computer Sciences, Universitas Sriwijaya, Indonesia
+
+- Osvari Arsalan, S.Kom., M.T : Lecturer and Researcher 
+  Department of Informatics, Faculty of Computer Sciences, Universitas Sriwijaya, Indonesia
+
+- Rizki Kurniati, M.T. : Lecturer and Researcher 
+  Department of Informatics, Faculty of Computer Sciences, Universitas Sriwijaya, Indonesia
 
 
 ## Contact
