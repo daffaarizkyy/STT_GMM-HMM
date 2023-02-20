@@ -5,7 +5,7 @@
 > Live Demo Now is [_UNAVAILABLE_](). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
-* [Description] (#speech-to-text-using-gaussian-mixture-model-&-hidden-markov-model)
+* [Description](#speech-to-text-using-gaussian-mixture-model-&-hidden-markov-model)
 * [General Info](#general-information)  
 * [Technologies Used](#technologies-used)
 * [Features](#features)
