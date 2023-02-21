@@ -91,7 +91,7 @@ def kenali_suara_gmm(input_file):
 			modelfile = open('./model/modelgmmDigit.pkl', 'rb')
 
 		elif(predict=="fruit"):
-			modelfile = open('./model/modelgmmfruit2.pkl', 'rb')
+			modelfile = open('./model/modelgmmfruit.pkl', 'rb')
 
 		else:
 			return ("Unsupported Prediction Selected")
